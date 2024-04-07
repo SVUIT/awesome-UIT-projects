@@ -11,7 +11,7 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/svuit',
 			},
-			favicon: '/favicon.svg',
+			favicon: '/favicon.ico',
 			customCss:[
 				'/src/styles/custom.scss',
 			],
