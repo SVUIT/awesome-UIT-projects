@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://svuit.github.io/',
+	site: 'https://svuit.github.io',
 	base: '/awesome-UIT-projects',
 	integrations: [
 		starlight({
