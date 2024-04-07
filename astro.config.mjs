@@ -9,7 +9,7 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
-			favicon: '/public/fav.ico',
+			favicon: '/public/favicon.ico',
 			customCss:[
 				'/src/styles/custom.scss',
 			],
