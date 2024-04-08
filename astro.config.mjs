@@ -7,7 +7,7 @@ export default defineConfig({
 	base: '/awesome-UIT-projects',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Awesome UIT Projects',
 			social: {
 				github: 'https://github.com/svuit',
 			},
