@@ -8,10 +8,12 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
     - [Khoa Khoa Học Máy Tính](#khoa-khoa-học-máy-tính)
         - [CS105 - Đồ họa máy tính](#cs105---đồ-họa-máy-tính)
     - [Khoa Mạng Máy Tính Và Truyền Thông](#khoa-mạng-máy-tính-và-truyền-thông)
+        - [NT101 - An toàn mạng máy tính]()
         - [NT132 - Quản trị mạng và hệ thống](#nt132---quản-trị-mạng-và-hệ-thống)
     - [Các môn học chung](#các-môn-học-chung)
         - [IT007 - Hệ điều hành](#it007---hệ-điều-hành)
-- [Công cụ](#công-cụ)
+- [Công cụ khác](#công-cụ-khác)
+- [Nguồn tài liệu học tập](#nguồn-tài-liệu-học-tập)
 
 
 ## Môn học
@@ -24,19 +26,28 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
 
 ### Khoa Mạng Máy Tính Và Truyền Thông
 
+#### NT101 - An toàn mạng máy tính
+
+- [thu4n.dev/NT101](https://thu4n.dev/posts/network-security-review/) - - Bài blog ôn tập cho bài thi cuối kỳ của môn học.
+
 #### NT132 - Quản trị mạng và hệ thống
 
 - [thu4n.dev/NT132](https://thu4n.dev/posts/network-admin-review/) - Bài blog ôn tập cho bài thi cuối kỳ của môn học.
 
 ### Các môn học chung
 
+#### IT005 - Nhập môn mạng máy tính
+
+- [Tool tính số RTT trong HTTP](https://media.pearsoncmg.com/aw/ecs_kurose_compnetwork_7/cw/content/interactiveanimations/http-delay-estimation/) - Cho phép tính số RTT trong các ngữ cảnh Non-Persistent và Persistent, có Pipeline và không có Pipeline.
+
 #### IT007 - Hệ điều hành
 
 - [PhamThe-KHDL/IT007.M14-Operating-Systems](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems) - Tổng hợp chi tiết link các slide và video bài giảng.
 
-## Công cụ
+## Công cụ khác
 
 - [Tool ĐKHP UIT](https://dkhp-uit.vercel.app/1) - Một website hỗ trợ trong việc đăng ký học phần, cho phép sắp xếp thời khóa biểu cũng như tạo script đăng ký nhanh.
+- [Extension ĐKHP UIT](https://chromewebstore.google.com/detail/tool-%C4%91%C4%83ng-k%C3%BD-h%E1%BB%8Dc-ph%E1%BA%A7n-uit/) - Tính năng tương tự Tool ĐKHP UIT nhưng là một extension cho Google Chrome và các trình duyệt khác có hỗ trợ.
 
 ## Nguồn tài liệu học tập
 
@@ -46,3 +57,5 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
 - [Ban học tập khoa KTMT](https://www.facebook.com/bht.ktmt) - Ban học tập khoa Kỹ thuật Máy tính, cung cấp slide training cho các môn học của khoa mỗi đợt giữa kỳ và cuối kỳ.
 - [Ban học tập khoa HTTT](https://www.facebook.com/BHTHTTT) - Ban học tập khoa Hệ thống Thông tin, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ.
 - [Ban học tập khoa KHKTTT](https://www.facebook.com/BHTKHKTTT) - Ban học tập khoa Khoa học và Kỹ thuật Thông tin, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ.
+- [Kênh Youtube SVUIT-MMTT](https://www.youtube.com/@svuit-mmtt) - Nơi lưu trữ các video demo đồ án và bài thực hành.
+- [Kênh Youtube Duong Computing](https://www.youtube.com/@DuongComputing) - Dạy các môn học về Công nghệ Thông tin, Khoa học Máy tính, Kỹ thuật Máy tính, Công nghệ Bán dẫn, Kỹ thuật Điện tử, Thiết kế Vi mạch. Chứa nhiều video bài giảng và giải đề thi của các môn như Nhập môn mạch số, Kiến trúc máy tính, và Hệ điều hành.
