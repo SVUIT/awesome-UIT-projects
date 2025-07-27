@@ -2,6 +2,7 @@
   "name": "awesome-page",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://svuit.org/awesome-UIT-projects",
   "dependencies": {
     "aos": "^2.3.4",
     "react": "^18.3.1",
