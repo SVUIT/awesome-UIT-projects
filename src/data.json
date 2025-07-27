@@ -1,0 +1,139 @@
+{
+  "title": "Awesome UIT Projects",
+  "description": "Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án môn học, công cụ, đoạn code, tài liệu học tập, và nhiều hơn thế nữa.",
+  "courses": {
+    "computer_science": {
+      "faculty_name": "Khoa Khoa Học Máy Tính",
+      "subjects": [
+        {
+          "id": "CS105",
+          "name": "Đồ họa máy tính",
+          "projects": [
+            {
+              "name": "Karhdo/CS105.M11.KHCL",
+              "url": "https://github.com/Karhdo/CS105.M11.KHCL",
+              "description": "Tổng hợp nội dung lý thuyết từng chương và đồ án cuối kì của môn học."
+            }
+          ]
+        }
+      ]
+    },
+    "computer_networks_and_communications": {
+      "faculty_name": "Khoa Mạng Máy Tính Và Truyền Thông",
+      "subjects": [
+        {
+          "id": "NT101",
+          "name": "An toàn mạng máy tính",
+          "projects": [
+            {
+              "name": "thu4n.dev/NT101",
+              "url": "https://thu4n.dev/posts/network-security-review/",
+              "description": "Bài blog ôn tập cho bài thi cuối kỳ của môn học."
+            }
+          ]
+        },
+        {
+          "id": "NT132",
+          "name": "Quản trị mạng và hệ thống",
+          "projects": [
+            {
+              "name": "thu4n.dev/NT132",
+              "url": "https://thu4n.dev/posts/network-admin-review/",
+              "description": "Bài blog ôn tập cho bài thi cuối kỳ của môn học."
+            }
+          ]
+        }
+      ]
+    },
+    "general_courses": {
+      "faculty_name": "Các môn học chung",
+      "subjects": [
+        {
+          "id": "IT005",
+          "name": "Nhập môn mạng máy tính",
+          "projects": [
+            {
+              "name": "Tool tính số RTT trong HTTP",
+              "url": "https://media.pearsoncmg.com/aw/ecs_kurose_compnetwork_7/cw/content/interactiveanimations/http-delay-estimation/",
+              "description": "Cho phép tính số RTT trong các ngữ cảnh Non-Persistent và Persistent, có Pipeline và không có Pipeline."
+            }
+          ]
+        },
+        {
+          "id": "IT007",
+          "name": "Hệ điều hành",
+          "projects": [
+            {
+              "name": "PhamThe-KHDL/IT007.M14-Operating-Systems",
+              "url": "https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems",
+              "description": "Tổng hợp chi tiết link các slide và video bài giảng."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "other_tools": [
+    {
+      "name": "Tool ĐKHP UIT",
+      "url": "https://dkhp-uit.vercel.app/1",
+      "description": "Một website hỗ trợ trong việc đăng ký học phần, cho phép sắp xếp thời khóa biểu cũng như tạo script đăng ký nhanh."
+    },
+    {
+      "name": "Extension ĐKHP UIT",
+      "url": "https://chromewebstore.google.com/detail/tool-%C4%91%C4%83ng-k%C3%BD-h%E1%BB%8Dc-ph%E1%BA%A7n-uit/",
+      "description": "Tính năng tương tự Tool ĐKHP UIT nhưng là một extension cho Google Chrome và các trình duyệt khác có hỗ trợ."
+    }
+  ],
+  "learning_resources": [
+    {
+      "name": "Study Vault UIT - MMTT",
+      "url": "https://svuit.github.io/mmtt/",
+      "description": "Kho tài liệu học tập UIT, phiên bản Mạng máy tính và Truyền thông."
+    },
+    {
+      "name": "Ban học tập khoa MMT&TT",
+      "url": "https://www.facebook.com/uit.nc",
+      "description": "Ban học tập khoa Mạng máy tính và Truyền thông, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ."
+    },
+    {
+      "name": "Ban học tập khoa CNPM",
+      "description": "Ban học tập khoa Công nghệ Phần mềm, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ, ngoài ra còn cung cấp tài liệu các môn học riêng của khoa.",
+      "links": [
+        {
+          "type": "Website",
+          "url": "https://www.bhtcnpm.com/document"
+        },
+        {
+          "type": "Fanpage Facebook",
+          "url": "https://www.facebook.com/bhtcnpm"
+        }
+      ]
+    },
+    {
+      "name": "Ban học tập khoa KTMT",
+      "url": "https://www.facebook.com/bht.ktmt",
+      "description": "Ban học tập khoa Kỹ thuật Máy tính, cung cấp slide training cho các môn học của khoa mỗi đợt giữa kỳ và cuối kỳ."
+    },
+    {
+      "name": "Ban học tập khoa HTTT",
+      "url": "https://www.facebook.com/BHTHTTT",
+      "description": "Ban học tập khoa Hệ thống Thông tin, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ."
+    },
+    {
+      "name": "Ban học tập khoa KHKTTT",
+      "url": "https://www.facebook.com/BHTKHKTTT",
+      "description": "Ban học tập khoa Khoa học và Kỹ thuật Thông tin, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ."
+    },
+    {
+      "name": "Kênh Youtube SVUIT-MMTT",
+      "url": "https://www.youtube.com/@svuit-mmtt",
+      "description": "Nơi lưu trữ các video demo đồ án và bài thực hành."
+    },
+    {
+      "name": "Kênh Youtube Duong Computing",
+      "url": "https://www.youtube.com/@DuongComputing",
+      "description": "Dạy các môn học về Công nghệ Thông tin, Khoa học Máy tính, Kỹ thuật Máy tính, Công nghệ Bán dẫn, Kỹ thuật Điện tử, Thiết kế Vi mạch. Chứa nhiều video bài giảng và giải đề thi của các môn như Nhập môn mạch số, Kiến trúc máy tính, và Hệ điều hành."
+    }
+  ]
+}
