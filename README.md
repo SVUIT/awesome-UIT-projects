@@ -14,6 +14,7 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
         - [IT007 - Hệ điều hành](#it007---hệ-điều-hành)
 - [Công cụ khác](#công-cụ-khác)
 - [Nguồn tài liệu học tập](#nguồn-tài-liệu-học-tập)
+- [Khác](#khác)
 
 
 ## Môn học
@@ -26,9 +27,13 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
 
 ### Khoa Mạng Máy Tính Và Truyền Thông
 
+#### IS402 - Điện toán đám mây
+
+- [uit-bmtt/cloud-computing-course](https://github.com/uit-bmtt/cloud-computing-course?tab=readme-ov-file) - Repo tổng hợp nội dung học và bài tập môn Cloud Computing do Khoa Mạng Máy Tính & Truyền Thông UIT biên soạn. Gồm slide, bài lab, project thực hành với Docker, Kubernetes, AWS, giúp sinh viên học lý thuyết và triển khai thực tế.
+
 #### NT101 - An toàn mạng máy tính
 
-- [thu4n.dev/NT101](https://thu4n.dev/posts/network-security-review/) - - Bài blog ôn tập cho bài thi cuối kỳ của môn học.
+- [thu4n.dev/NT101](https://thu4n.dev/posts/network-security-review/) - Bài blog ôn tập cho bài thi cuối kỳ của môn học.
 
 #### NT132 - Quản trị mạng và hệ thống
 
@@ -43,11 +48,13 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
 #### IT007 - Hệ điều hành
 
 - [PhamThe-KHDL/IT007.M14-Operating-Systems](https://github.com/PhamThe-KHDL/IT007.M14-Operating-Systems) - Tổng hợp chi tiết link các slide và video bài giảng.
+- [autruonggiang/IT007-OS-Lab](https://github.com/autruonggiang/IT007-OS-Lab) - Repo chứa các bài lab môn Hệ điều hành (IT007).
 
 ## Công cụ khác
 
 - [Tool ĐKHP UIT](https://dkhp-uit.vercel.app/1) - Một website hỗ trợ trong việc đăng ký học phần, cho phép sắp xếp thời khóa biểu cũng như tạo script đăng ký nhanh.
 - [Extension ĐKHP UIT](https://chromewebstore.google.com/detail/tool-%C4%91%C4%83ng-k%C3%BD-h%E1%BB%8Dc-ph%E1%BA%A7n-uit/) - Tính năng tương tự Tool ĐKHP UIT nhưng là một extension cho Google Chrome và các trình duyệt khác có hỗ trợ.
+- [Chatbot tư vấn tuyển sinh](https://aiclub.uit.edu.vn/chatbot_uit/login) - AI hỗ trợ thí sinh giải đáp mọi thắc mắc về tuyển sinh và ngành học tại UIT.
 
 ## Nguồn tài liệu học tập
 
@@ -59,3 +66,7 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
 - [Ban học tập khoa KHKTTT](https://www.facebook.com/BHTKHKTTT) - Ban học tập khoa Khoa học và Kỹ thuật Thông tin, cung cấp slide training cho các môn học chung mỗi đợt giữa kỳ và cuối kỳ.
 - [Kênh Youtube SVUIT-MMTT](https://www.youtube.com/@svuit-mmtt) - Nơi lưu trữ các video demo đồ án và bài thực hành.
 - [Kênh Youtube Duong Computing](https://www.youtube.com/@DuongComputing) - Dạy các môn học về Công nghệ Thông tin, Khoa học Máy tính, Kỹ thuật Máy tính, Công nghệ Bán dẫn, Kỹ thuật Điện tử, Thiết kế Vi mạch. Chứa nhiều video bài giảng và giải đề thi của các môn như Nhập môn mạch số, Kiến trúc máy tính, và Hệ điều hành.
+- [Kênh Youtube UIT Knowledge](https://youtube.com/@uit_knowledge?si=zkfDMBEw1QRIIBoj) - Kênh được xây dựng bởi sinh viên UIT với mục tiêu chia sẻ kiến thức, tài liệu ôn thi giữa kỳ và cuối kỳ các môn đại cương như Toán, Cấu trúc dữ liệu, cùng các nội dung học thuật dành riêng cho sinh viên CNTT.
+
+## Khác
+- [Ban học tập khoa CNPM](https://cnpm.uit.edu.vn/vi/sản-phẩm/app.html) - Đây là trang chuyên giới thiệu các ứng dụng di động/web do sinh viên Khoa Công nghệ Phần mềm UIT phát triển — thường là đồ án cuối kỳ, dự án khóa học chuyên môn hoặc sản phẩm thi ứng dụng công nghệ.
