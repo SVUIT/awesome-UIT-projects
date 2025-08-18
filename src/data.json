@@ -22,6 +22,17 @@
       "faculty_name": "Khoa Mạng Máy Tính Và Truyền Thông",
       "subjects": [
         {
+          "id": "IS402",
+          "name": "Điện toán đám mây",
+          "projects": [
+            {
+              "name": "uit-bmtt/cloud-computing-course",
+              "url": "https://github.com/uit-bmtt/cloud-computing-course?tab=readme-ov-file",
+              "description": "Repo tổng hợp nội dung học và bài tập môn Cloud Computing do Khoa Mạng Máy Tính & Truyền Thông UIT biên soạn. Gồm slide, bài lab, project thực hành với Docker, Kubernetes, AWS, giúp sinh viên học lý thuyết và triển khai thực tế."
+            }
+          ]
+        },
+        {
           "id": "NT101",
           "name": "An toàn mạng máy tính",
           "projects": [
@@ -83,6 +94,11 @@
       "name": "Extension ĐKHP UIT",
       "url": "https://chromewebstore.google.com/detail/tool-%C4%91%C4%83ng-k%C3%BD-h%E1%BB%8Dc-ph%E1%BA%A7n-uit/",
       "description": "Tính năng tương tự Tool ĐKHP UIT nhưng là một extension cho Google Chrome và các trình duyệt khác có hỗ trợ."
+    },
+    {
+      "name": "Chatbot tư vấn tuyển sinh",
+      "url": "https://aiclub.uit.edu.vn/chatbot_uit/login",
+      "description": "AI hỗ trợ thí sinh giải đáp mọi thắc mắc về tuyển sinh và ngành học tại UIT."
     }
   ],
   "learning_resources": [
@@ -134,6 +150,18 @@
       "name": "Kênh Youtube Duong Computing",
       "url": "https://www.youtube.com/@DuongComputing",
       "description": "Dạy các môn học về Công nghệ Thông tin, Khoa học Máy tính, Kỹ thuật Máy tính, Công nghệ Bán dẫn, Kỹ thuật Điện tử, Thiết kế Vi mạch. Chứa nhiều video bài giảng và giải đề thi của các môn như Nhập môn mạch số, Kiến trúc máy tính, và Hệ điều hành."
+    },
+    {
+      "name": "Kênh Youtube UIT Knowledge",
+      "url": "https://youtube.com/@uit_knowledge?si=zkfDMBEw1QRIIBoj",
+      "description": "Kênh được xây dựng bởi sinh viên UIT với mục tiêu chia sẻ kiến thức, tài liệu ôn thi giữa kỳ và cuối kỳ các môn đại cương như Toán, Cấu trúc dữ liệu, cùng các nội dung học thuật dành riêng cho sinh viên CNTT."
+    }
+  ],
+  "other": [
+    {
+      "name": "Ban học tập khoa CNPM",
+      "url": "https://cnpm.uit.edu.vn/vi/sản-phẩm/app.html",
+      "description": "Đây là trang chuyên giới thiệu các ứng dụng di động/web do sinh viên Khoa Công nghệ Phần mềm UIT phát triển — thường là đồ án cuối kỳ, dự án khóa học chuyên môn hoặc sản phẩm thi ứng dụng công nghệ."
     }
   ]
 }
