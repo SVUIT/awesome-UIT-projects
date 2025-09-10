@@ -22,8 +22,8 @@
       "faculty_name": "Khoa Mạng Máy Tính Và Truyền Thông",
       "subjects": [
         {
-          "id": "IS402",
-          "name": "Điện toán đám mây",
+          "id": "NT533",
+          "name": "Hệ tính toán phân bố",
           "projects": [
             {
               "name": "uit-bmtt/cloud-computing-course",
