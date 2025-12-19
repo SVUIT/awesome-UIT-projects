@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "https://svuit.org/awesome-UIT-projects",
+  "overrides": {
+    "node-forge": "^1.3.2",
+    "nth-check": "^2.0.1"
+  },
   "dependencies": {
     "aos": "^2.3.4",
     "react": "^18.3.1",
