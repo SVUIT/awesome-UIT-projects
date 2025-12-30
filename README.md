@@ -53,7 +53,7 @@ Danh sách tổng hợp các project liên quan đến UIT-VNUHCM như đồ án
 ## Công cụ khác
 
 - [Tool ĐKHP UIT](https://dkhp-uit.vercel.app/1) - Một website hỗ trợ trong việc đăng ký học phần, cho phép sắp xếp thời khóa biểu cũng như tạo script đăng ký nhanh.
-- [Extension ĐKHP UIT](https://chromewebstore.google.com/detail/tool-%C4%91%C4%83ng-k%C3%BD-h%E1%BB%8Dc-ph%E1%BA%A7n-uit/) - Tính năng tương tự Tool ĐKHP UIT nhưng là một extension cho Google Chrome và các trình duyệt khác có hỗ trợ.
+- [Extension ĐKHP UIT](https://chromewebstore.google.com/detail/tool-%C4%91%C4%83ng-k%C3%BD-h%E1%BB%8Dc-ph%E1%BA%A7n-uit/phngppecjpeehffhgjolkdglbjonpdgn) - Tính năng tương tự Tool ĐKHP UIT nhưng là một extension cho Google Chrome và các trình duyệt khác có hỗ trợ.
 - [Chatbot tư vấn tuyển sinh](https://aiclub.uit.edu.vn/chatbot_uit/login) - AI hỗ trợ thí sinh giải đáp mọi thắc mắc về tuyển sinh và ngành học tại UIT.
 
 ## Nguồn tài liệu học tập
